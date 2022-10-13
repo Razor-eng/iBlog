@@ -1,0 +1,11 @@
+.contact-content{
+    display: absolute;
+}
+#submitted{
+    color: rgb(66, 8, 8);
+    font-size: 23px;
+}
+.btn{
+    position: relative;
+    left: 17vw;
+}
